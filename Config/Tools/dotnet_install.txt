@@ -1,0 +1,12 @@
+1. 下载 .NET SDK
+打开你的浏览器并访问 .NET 官网(https://dotnet.microsoft.com/zh-cn/download)。下载适合你的 macOS 版本的 .NET SDK 安装包。通常，你可以选择 LTS（长期支持）版本或者当前最新版本。
+
+2. 运行安装包
+找到下载的 .pkg 文件并双击它启动安装程序。遵循屏幕上的说明完成安装过程。
+
+3. 验证安装
+一旦安装完毕，打开终端窗口验证 .NET SDK 是否已成功安装：
+
+shell
+dotnet --version
+这应该输出已安装的 .NET SDK 版本。

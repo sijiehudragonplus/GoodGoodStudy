@@ -1,0 +1,4 @@
+{
+	"name": "Framework",
+	"references":[ "GUID:395d3fbdf03e46afa6f1009c8e141e07", "GUID:f0dd19dbd9064efbbf8c4ae4aceea445" ]
+}
